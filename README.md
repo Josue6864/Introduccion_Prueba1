@@ -11,6 +11,8 @@ Este es mi primer proyecto de introduccion a ingenieria y sera mi presentacion p
 
 Durante mi formación he desarrollado una base sólida en pensamiento lógico y programación, comprendiendo que el verdadero desarrollo comienza antes del código.
 
+Me encanta desarrollar soluciones que transformen ideas en aplicaciones reales, combinando creatividad con estructura. Disfruto el proceso de analizar problemas, diseñar la lógica detrás de cada solución y llevarla a la práctica de manera eficiente.
+
 ---
 
 ## 🧠 Pensamiento computacional
