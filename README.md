@@ -61,3 +61,5 @@ He creado aplicaciones funcionales conectadas a dispositivos móviles, llevando 
 Siempre estoy aprendiendo nuevas tecnologías y mejorando mi forma de resolver problemas para convertirme en un desarrollador más completo.
 
 ✨ *"Programar no es solo escribir código, es saber pensar soluciones."*
+
+## Aprobado por Dan
